@@ -1,6 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react'
-import ShowHidePw from './ShowHide.jsx';
-import { SignupShowPw, ConfirmPassword } from './SignupShowPw.jsx';
+import { SignupShowPw, ConfirmPassword, ShowHidePw } from './SignupShowPw.jsx';
 
 
 
